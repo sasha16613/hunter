@@ -7,7 +7,7 @@ hunter_add_version(
     PACKAGE_NAME
     print
     VERSION
-    "v1"
+    "v1.0"
     URL
     "https://github.com/sasha16613/print/archive/v1.tar.gz"
     SHA1
