@@ -9,9 +9,9 @@ hunter_add_version(
     VERSION
     "v1.0"
     URL
-    "https://github.com/sasha16613/print/archive/v1.tar.gz"
+    "https://github.com/sasha16613/print/archive/v1.0.tar.gz"
     SHA1
-    f6a82155ee0da314cfcb1882071117be769cbbd5
+    4f6250ec27c09c04035332769986ab3b3eb151c0
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
